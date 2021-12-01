@@ -1,0 +1,17 @@
+
+.gitignore
+.idea/.gitignore
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+adventOfCode2021.iml
+data/
+findNumberOfIncreasingSequence.go
+findNumberOfIncreasingSequence_test.go
+findNumberOfIncreasingWindow.go
+findNumberOfIncreasingWindow_test.go
+go.mod
+go.sum
+main/
+numUtil.go
+vendor/
